@@ -1,5 +1,5 @@
 # LGMVIP-Android
-This is Task 1 of Virtual Android Internship by GrowMore....
+This is Task 1 of Virtual Android Internship by LetsGrowMore....
 
 The aim of this task is to create an app that can show the user how many covid cases are currently there in the city and state.
 
